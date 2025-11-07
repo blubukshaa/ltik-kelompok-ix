@@ -5,7 +5,7 @@ Repositori ini dibuat untuk memenuhi tugas Literasi Teknologi Informasi dan Komu
 
 ## Anggota Kelompok
 
-| Name | NIM |
+| Nama | NIM |
 |------|-----|
 | Aldi Nur Haadi | 2505177     
 | Damara | 2503586
