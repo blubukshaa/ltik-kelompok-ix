@@ -1,4 +1,4 @@
-# Kelompok IX - Pengantar Rekayasa Perangkat Lunak
+# Kelompok IX - PRPL x LTIK
 
 ## Ringkasan
 Repositori ini dibuat untuk memenuhi tugas Literasi Teknologi Informasi dan Komunikasi dengan dosen pengajar Yulia Retnowati, S.Pd., M.T.
